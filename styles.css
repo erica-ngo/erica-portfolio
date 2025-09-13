@@ -115,7 +115,7 @@ h2 {
 #home .intro-image img {
     border-radius: 10px;
     box-shadow: #aa626b 0 0 10px;
-    max-width: 280px;
+    max-height: 350px;
 }
 
 #home .intro-text {
@@ -214,6 +214,7 @@ h2 {
     display: flex;
     gap: 40px;
     justify-content: center;
+    padding: 30px 90px;
 }
 
 #about button {
@@ -234,6 +235,10 @@ h2 {
 
 #about button:hover {
     background-color: #9de8a0;
+}
+
+#about .about-me-collage img{
+    max-height: 500px;
 }
 
 /* CONTACT SECTION */
