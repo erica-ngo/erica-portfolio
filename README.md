@@ -25,5 +25,5 @@ The website is designed as a simple, static portfolio for co-op employers to:
 
 ## Contact
 If you’re interested in connecting, collaborating, or discussing opportunities, feel free to reach out:
-Email: ericango@uvic.ca
-LinkedIn: https://www.linkedin.com/in/erica-ngo
+- Email: ericango@uvic.ca
+- LinkedIn: https://www.linkedin.com/in/erica-ngo
